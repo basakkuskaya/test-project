@@ -1,0 +1,1 @@
+package net.javabasak.springboot_backend_basak.model;
